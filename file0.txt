@@ -1,3 +1,4 @@
 2018-10-19 15:16 ET
-This will be a conflict line and is changed from master
+This will be a conflict line that is now resolved.
 This line was added from master.
+This line was added from branch0.
